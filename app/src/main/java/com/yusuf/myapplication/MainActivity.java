@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void changeUserName() {
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
-        builder.setTitle("Ganti nama");
+        builder.setTitle("Ganti namaa");
 
         final EditText input = new EditText(this);
         builder.setView(input);
